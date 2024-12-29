@@ -157,7 +157,7 @@
                 <div class="col-lg-7">
                     <div class="section-title text-center">
                         <h2>Değerli Yorumlarınız!</h2>
-                        <p>Mutlu müşterilerimizin, ürünlerimiz için yapmış olduğu değerli yorumlar....</p>
+                        <p>Mutlu müşterilerimizin, ürünlerimiz için yapmış olduğu saygı değer yorumlar....</p>
                     </div>
                 </div>
             </div>
